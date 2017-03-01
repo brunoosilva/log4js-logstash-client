@@ -1,0 +1,35 @@
+{
+  "name": "log4js-logstash-client",
+  "version": "1.0.0",
+  "description": "Logstash client for log4js",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoosilva/log4js-logstash-client.git"
+  },
+  "keywords": [
+    "logstash",
+    "client",
+    "log4js"
+  ],
+  "engines": {
+    "node": "6.10.x"
+  },
+  "author": "Bruno Oliveira",
+  "licenses": [
+      {
+          "type": "GNUv2",
+          "url": "https://raw.github.com/gembly/LimitlessGEM/master/LICENSE"
+      }
+  ],
+  "bugs": {
+    "url": "https://github.com/brunoosilva/log4js-logstash-client/issues"
+  },
+  "homepage": "https://github.com/brunoosilva/log4js-logstash-client#readme",
+  "dependencies": {
+    "logstash-client": "^1.1.1"
+  }
+}
