@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Logstash client for log4js",
   "main": "./index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brunoosilva/log4js-logstash-client.git"
@@ -15,10 +12,7 @@
     "client",
     "log4js"
   ],
-  "engines": {
-    "node": "6.10.x"
-  },
-  "author": "Bruno Oliveira",
+  "author": "Bruno Oliveira <321.bruno@gmail.com>",
   "licenses": [
       {
           "type": "GNUv2",
