@@ -12,6 +12,9 @@
     "client",
     "log4js"
   ],
+  "engines": {
+    "node": ">=4.0"
+  },
   "author": "Bruno Oliveira <321.bruno@gmail.com>",
   "licenses": [
       {
